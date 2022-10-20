@@ -2,6 +2,8 @@
 .flex-container-columns {
 
 
+
+
 	display: flex;
 	justify-content: center;
 	width: 960px;
@@ -9,7 +11,7 @@
   min-width: 100%;
 	margin: auto;
 
-  column-gap: 1cm;
+  column-gap: 2cm;
 /*   column-rule: 1cm solid black; */
 
 }
